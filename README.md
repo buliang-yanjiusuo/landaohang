@@ -1,6 +1,9 @@
 # landaohang
 ## 蓝导航最新地址发布页模板代码分享-技术是一步一步学练出来的
+
+
 好的，下面是我为您设计的蓝导航最新地址发布页的HTML代码框架，包含了大气高级的科技感布局、动画效果、公告弹窗、网址展示、底部内容、发展方向、邮箱展示等内容。为了实现高级感和动感效果，我将使用HTML、CSS和JavaScript来创建页面。
+欢迎大家留言讨论，或者发送邮件都可以，我会用心为大家解决你遇到的优化困难  buliangyanjiusuo@gmail.com
 
 ### 蓝导航最新地址发布页示例
 
@@ -237,12 +240,12 @@
 
         <!-- 底部内容 -->
         <div class="footer">
-            <p>版权所有 © 2024 蓝导航 | <a href="mailto:buliangyanjiusuo@proton.me">联系我们</a> | <a href="https://www.github.com">隐私政策</a></p>
+            <p>版权所有 © 2024 蓝导航 | <a href="mailto:buliangyanjiusuo@gmail.com">联系我们</a> | <a href="https://www.github.com">隐私政策</a></p>
         </div>
 
         <!-- 邮箱展示 -->
         <div class="email-display">
-            <p>如果您有任何问题，请通过电子邮件联系我们：<a href="mailto:buliangyanjiusuo@proton.me">buliangyanjiusuo@proton.me</a></p>
+            <p>如果您有任何问题，请通过电子邮件联系我们：<a href="mailto:buliangyanjiusuo@proton.me">buliangyanjiusuo@gmail.com</a></p>
         </div>
     </div>
 
